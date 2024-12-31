@@ -11,4 +11,11 @@ This project analyzes personal Spotify listening data to gain insights into musi
 6. What is the overall skip rate ?
 7. Are there any artists or tracks you've stopped listening to?
 
+### Dataset Description
+endTime: Timestamp of when a track finished playing
 
+artistName: Name of the artist
+
+trackName: Name of the track
+
+msPlayed: Duration of the track played in milliseconds
