@@ -1,6 +1,6 @@
 # Spotify-Data-Analysis
 
-# INTRODUCTION :
+### INTRODUCTION 
 This project analyzes personal Spotify listening data to gain insights into music consumption habits and preferences. By examining factors such as play counts and listening times, I have answered the following questions :
 
 1. What are the 10 most played artists and tracks ?
